@@ -14,4 +14,4 @@ It contains:
   
 To run the R shiny web app you need to open the app.R file within Rstudio and launch the app. All infromation about the progress on Algononymous, the choice of framework and features can be found in the report
 
-![Algononymous home tab draft](https://github.com/NMartinod/Algononymous/blob/main/home_tab.png?raw=true)
+<img src="https://github.com/NMartinod/Algononymous/blob/main/home_tab.png" width="700" >
