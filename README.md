@@ -13,3 +13,5 @@ It contains:
   - Scripts taken from IDDO I used during the semester
   
 To run the R shiny web app you need to open the app.R file within Rstudio and launch the app. All infromation about the progress on Algononymous, the choice of framework and features can be found in the report
+
+![Algononymous home tab draft](https://github.com/NMartinod/Algononymous/home_tab.png?raw=true)
